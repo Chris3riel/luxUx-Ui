@@ -1,5 +1,8 @@
 # LUXMODE UX/UI Design Documentation
 
+![alt text](image.png)
+
+
 ## 1. Overview
 - **Project Name**: LUXMODE
 - **Purpose**: A clothing store website showcasing premium collections.
